@@ -1,0 +1,2 @@
+classpath*:br/com/rafael/uimafit/ae/type/*.xml
+
